@@ -12,6 +12,7 @@
 - [ML5](https://ml5js.org/)
 - [P5js](https://p5js.org/)
 - [RunwayML](https://runwayml.com/)
+- [A Style-Based Generator Architecture for Generative Adversarial Networks](https://www.youtube.com/watch?v=kSLJriaOumA&t)
 
 # BigGAN Playground
 
