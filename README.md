@@ -1,3 +1,7 @@
+# This repository will be archived as the contents have moved [here](https://github.com/joshmurr/machine-learnings) to keep things in one place.
+
+---
+
 # Lecture Slides
 
 - [Part 1](https://docs.google.com/presentation/d/1uohkrAUQQMDPmoL5z30wwlVVCiMMHOwsoWIfN5f0X94/edit?usp=sharing)
